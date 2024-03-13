@@ -1,6 +1,6 @@
 {
-    "name": "helloworld",
-    "short_name": "helloworld",
+    "name": "lars",
+    "short_name": "lars",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
