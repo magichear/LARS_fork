@@ -77677,7 +77677,7 @@ throw A.d(r)}if(A.cA(n)>2047||A.cA(n)<-2048)throw A.d(A.cR(B.cS,p.e))
 r=n
 q=A.U(10)
 return r.bd(B.e.dG(r.a,q.a)).bW(21,0)}if($.atZ().q(0,a)){try{n=A.U(A.cW(p.f[3],o)>>>0)}catch(s){r=A.cR(B.bR,p.e)
-throw A.d(r)}if(A.cA(n)>32767||A.cA(n)<-32768||!n.bW(1,0).i(0,B.aS))throw A.d(A.cR(B.cS,p.e))
+throw A.d(r)}if(A.cA(n)>131071||A.cA(n)<-131072||!n.bW(1,0).i(0,B.aS))throw A.d(A.cR(B.cS,p.e))
 r=n
 q=A.U(8)
 return r.bd(B.e.dG(r.a,q.a)).bW(25,0)}if($.au_().q(0,a)){try{n=A.U(A.cW(p.f[2],o)>>>0)}catch(s){r=A.cR(B.bR,p.e)
